@@ -2,7 +2,8 @@
 BACKUP_PARENT_DIR="/mnt/md1/Documents/Kodi/SauvegardeBDD/"
 
 #MySQL Parameters
-MYSQL_USER=""
+#Passwords and username will have to be stored somewhere else 
+MYSQL_USER="" 
 MYSQL_PASSWORD=""
 
 #Backup Parameters
