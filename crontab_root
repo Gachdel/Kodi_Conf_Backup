@@ -1,0 +1,4 @@
+00 01 * * 1-5 poweroff 
+00 22 * * * /mnt/md1/Users/Gael/script_sauvegarde_DB_Kodi.sh 
+26 14 * * 1,4 /usr/bin/news.sh  #!# Alt-F cron
+36 0 * * * /usr/sbin/adjtime -adjust  #!# Alt-F cron
