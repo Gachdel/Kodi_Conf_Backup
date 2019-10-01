@@ -1,3 +1,4 @@
+# Updated for nouvelle-branche2 
 # Parent backup directory
 BACKUP_PARENT_DIR="/mnt/md1/Documents/Kodi/SauvegardeBDD/"
 
